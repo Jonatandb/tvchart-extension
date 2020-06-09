@@ -18,7 +18,7 @@ const observerCallback = function (mutationsList) {
       if (className && includesOneOf(className, seriesContainerClasses)) {
         setTimeout(() => {
           const duration = element.querySelector('.duration')?.textContent;
-          if (!duration || !includesOneOf(duration, seriesDurationKeywords)) {
+          if (!duration) { // || !includesOneOf(duration, seriesDurationKeywords)) {
             //not a series, don't inject button.
             return;
           }
