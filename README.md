@@ -28,6 +28,7 @@ This is the official chrome extension for [TV Chart](https://tvchart.benmiz.com/
   - Descargar
   - Descomprimir
   - Ir a "Extensiones" en el menú de configuraciones de Chrome
-  - "Click en Cargar extensión sin empaquetar"
+  - Click en "Cargar extensión sin empaquetar"
   - Seleccionar la carpeta con lo que estaba en el zip
   - Disfrutar!
+#### * Nota: Por una limitación de la API, solo muestra información de series y películas en inglés.
