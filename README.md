@@ -15,9 +15,19 @@ This is the official chrome extension for [TV Chart](https://tvchart.benmiz.com/
 ---
 
 ### Workaround to use with Netflix in spanish (Tested from Argentina)
-  - Download / Descargar
-  - Unzip / Descomprimir
-  - Go to Chrome Extensions / Ir a "Extensiones" en el menú de configuraciones de Chrome
-  - Click on Load Unpacked / "Click en Cargar extensión sin empaquetar"
-  - Select the folder with the content of the zip / Seleccionar la carpeta con lo que estaba en el zip
-  - Enjoy! / Disfrutar!
+  - Download
+  - Unzip
+  - Go to Chrome Extensions
+  - Click on Load Unpacked
+  - Select the folder with the content of the zip
+  - Enjoy!
+
+---
+
+### Solución para usarlo con Netflix en español (Probado desde Argentina)
+  - Descargar
+  - Descomprimir
+  - Ir a "Extensiones" en el menú de configuraciones de Chrome
+  - "Click en Cargar extensión sin empaquetar"
+  - Seleccionar la carpeta con lo que estaba en el zip
+  - Disfrutar!
